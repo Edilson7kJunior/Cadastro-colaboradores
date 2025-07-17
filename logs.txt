@@ -1,0 +1,3 @@
+[2025-05-30 20:13:22.000387] Erro ao cadastrar colaborador: CPF inválido.
+[2025-05-30 20:14:09.764516] Colaborador inserido: {'nome': 'Edilson Luiz Cosmo Junior', 'cpf': '530.641.338-29', 'email': 'liljunior234@gmail.com', 'cep': '13606-231', 'data_nascimento': '09/09/2002', 'logradouro': 'Rua Giácomo Delolo', 'bairro': 'Jardim Costa Verde', 'cidade': 'Araras', 'uf': 'SP'}
+[2025-06-02 10:52:54.721374] Colaborador inserido: {'nome': 'Edilson Luiz Cosmo junior', 'cpf': '530.641.338-29', 'email': 'liljunior234@gmail.com', 'cep': '13606-231', 'data_nascimento': '09/09/2002', 'logradouro': 'Rua Giácomo Delolo', 'bairro': 'Jardim Costa Verde', 'cidade': 'Araras', 'uf': 'SP'}
